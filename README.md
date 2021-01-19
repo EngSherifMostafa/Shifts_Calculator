@@ -1,4 +1,4 @@
-# Shifts Calculator
+# Shifts_Calculator
 ### This application calculates shift work systems.
 ### If you work for a certain number of days and then get a vacation, you can use this calculator to find out if you are at work or on vacation on a specific date.
 ### Terms of use :
